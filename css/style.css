@@ -1,8 +1,73 @@
 body {
-  background-color: rgb(58, 58, 58);
+  background-color: rgb(19, 17, 17);
   color: white;
 }
 
 h1{
-  font-size: 5vw;
+  font-size: 100px;
+  padding-bottom: 40px;
+  text-shadow: 7px 7px black;
+  border-bottom: 10px;
+  border-color: rgb(165, 158, 158);
+  border-style: groove;
+
+}
+
+header {
+  background-color: rgb(65, 64, 64);
+  top: 0;
+  width: 100%;
+  text-align: center;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  position: sticky;
+}
+
+nav{
+  padding: 20px;
+  width: 100%;
+  padding-bottom: 0px;
+  
+}
+
+li{
+  display:inline;
+  padding: 400px;
+}
+
+button{
+  background-color:rgb(97, 92, 92) ;
+  border-style: inset;
+  border-color: rgb(110, 106, 106);
+  border-width: 10px;
+  color: white;
+  height: 50px;
+  text-shadow: 2px 2px black;
+  font-size: 20px;
+}
+
+main{
+  padding-left:17%;
+  padding-right: 17%;
+  padding-top: 35px;
+}
+
+#main{
+  text-align: center;
+  padding:100px;
+  background-color:rgb(65, 64, 64);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
+  border-width: 10px;
+  border-color: rgb(36, 33, 33);
+  border-style: groove;
+}
+
+footer{
+  text-align: center;
+  position: sticky;
+  bottom: 0;
+  background-color: rgb(19, 17, 17);
 }
