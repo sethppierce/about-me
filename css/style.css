@@ -21,6 +21,9 @@ header {
   padding-bottom: 20px;
   padding-top: 20px;
   position: sticky;
+  border-bottom: 10px;
+  border-color: rgb(165, 158, 158);
+  border-style: groove;
 }
 
 nav{
