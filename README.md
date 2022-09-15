@@ -18,3 +18,8 @@
 ### Today I learned
 
 Today was a great refresher for information learned in the previous classes and I think I really got a hang of things today. I learned some great new stuff with CSS while doing the lab and got my website looking the way I wanted it to do, so it made me feel really good and comfortable with all the stuff we've done! Some new stuff I learned today was how to use the position property and values to make things sticky and scroll with the page, or to make them centered on the page. I also got more comfortable with the terminology and strive to get a lot better with that.
+
+## Lab 4
+
+Navigator: Seth Pierce
+Driver: Jonathan Staib
